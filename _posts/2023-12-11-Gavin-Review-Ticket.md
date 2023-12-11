@@ -3,8 +3,8 @@ hide: False
 toc: False
 comments: True
 layout: notebook
-title: Ishan Cornick Review Ticket
-description: Ishan Cornick Review Ticket
+title: Gavin Dyke Review Ticket
+description: Gavin Dyke Review Ticket
 type: tangibles
 courses: {'compsci': {'week': 2}}
 ---

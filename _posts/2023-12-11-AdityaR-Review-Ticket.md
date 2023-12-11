@@ -3,8 +3,8 @@ hide: False
 toc: False
 comments: True
 layout: notebook
-title: Saathvik Gampa Review Ticket
-description: Saathvik Gampa Review Ticket
+title: Aditya Rameshs Review Ticket
+description: Aditya Ramesh Review Ticket
 type: tangibles
 courses: {'compsci': {'week': 2}}
 ---

@@ -3,8 +3,8 @@ hide: False
 toc: False
 comments: True
 layout: notebook
-title: Akshay Nagesh Review Ticket
-description: Akshay Nagesh Review Ticket
+title: Aditya Samavedam Review Ticket
+description: Aditya Samavedam Review Ticket
 type: tangibles
 courses: {'compsci': {'week': 2}}
 ---

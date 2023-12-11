@@ -3,8 +3,8 @@ hide: False
 toc: False
 comments: True
 layout: notebook
-title: Nitin Balaji Review Ticket
-description: Nitin Balaji Review Ticket
+title: Sai Talisetty Review Ticket
+description: Sai Talisetty Review Ticket
 type: tangibles
 courses: {'compsci': {'week': 2}}
 ---
